@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.22.7",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0"
